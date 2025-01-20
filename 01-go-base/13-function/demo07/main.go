@@ -15,7 +15,7 @@ func main() {
 	times3 := multiplier(3)
 
 	// 使用这个函数来乘以不同的数值
-	result1 := times3(5) // 5 * 3 = 15
+	result1 := times3(5)  // 5 * 3 = 15
 	result2 := times3(10) // 10 * 3 = 30
 
 	fmt.Println("Result 1:", result1)
